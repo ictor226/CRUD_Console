@@ -1,0 +1,14 @@
+C:\Users\huggo\OneDrive\Documentos\.net atv\bin\Debug\net9.0\.net atv.exe
+C:\Users\huggo\OneDrive\Documentos\.net atv\bin\Debug\net9.0\.net atv.deps.json
+C:\Users\huggo\OneDrive\Documentos\.net atv\bin\Debug\net9.0\.net atv.runtimeconfig.json
+C:\Users\huggo\OneDrive\Documentos\.net atv\bin\Debug\net9.0\.net atv.dll
+C:\Users\huggo\OneDrive\Documentos\.net atv\bin\Debug\net9.0\.net atv.pdb
+C:\Users\huggo\OneDrive\Documentos\.net atv\obj\Debug\net9.0\.net atv.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\huggo\OneDrive\Documentos\.net atv\obj\Debug\net9.0\.net atv.AssemblyInfoInputs.cache
+C:\Users\huggo\OneDrive\Documentos\.net atv\obj\Debug\net9.0\.net atv.AssemblyInfo.cs
+C:\Users\huggo\OneDrive\Documentos\.net atv\obj\Debug\net9.0\.net atv.csproj.CoreCompileInputs.cache
+C:\Users\huggo\OneDrive\Documentos\.net atv\obj\Debug\net9.0\.net atv.dll
+C:\Users\huggo\OneDrive\Documentos\.net atv\obj\Debug\net9.0\refint\.net atv.dll
+C:\Users\huggo\OneDrive\Documentos\.net atv\obj\Debug\net9.0\.net atv.pdb
+C:\Users\huggo\OneDrive\Documentos\.net atv\obj\Debug\net9.0\.net atv.genruntimeconfig.cache
+C:\Users\huggo\OneDrive\Documentos\.net atv\obj\Debug\net9.0\ref\.net atv.dll
