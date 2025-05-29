@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\huggo\\OneDrive\\Documentos\\.net atv\\.net atv.csproj": {}
+    "C:\\Users\\huggo\\OneDrive\\Documentos\\.net atv\\CRUD_Console\\.net atv.csproj": {}
   },
   "projects": {
-    "C:\\Users\\huggo\\OneDrive\\Documentos\\.net atv\\.net atv.csproj": {
+    "C:\\Users\\huggo\\OneDrive\\Documentos\\.net atv\\CRUD_Console\\.net atv.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\huggo\\OneDrive\\Documentos\\.net atv\\.net atv.csproj",
+        "projectUniqueName": "C:\\Users\\huggo\\OneDrive\\Documentos\\.net atv\\CRUD_Console\\.net atv.csproj",
         "projectName": ".net atv",
-        "projectPath": "C:\\Users\\huggo\\OneDrive\\Documentos\\.net atv\\.net atv.csproj",
+        "projectPath": "C:\\Users\\huggo\\OneDrive\\Documentos\\.net atv\\CRUD_Console\\.net atv.csproj",
         "packagesPath": "C:\\Users\\huggo\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\huggo\\OneDrive\\Documentos\\.net atv\\obj\\",
+        "outputPath": "C:\\Users\\huggo\\OneDrive\\Documentos\\.net atv\\CRUD_Console\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

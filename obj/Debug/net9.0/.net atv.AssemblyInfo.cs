@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute(".net atv")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+04547ac8853c9c23173c633f6f679057405f91be")]
 [assembly: System.Reflection.AssemblyProductAttribute(".net atv")]
 [assembly: System.Reflection.AssemblyTitleAttribute(".net atv")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
