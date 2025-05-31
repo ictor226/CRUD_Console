@@ -1,10 +1,7 @@
 ﻿// See https://aka.ms/new-console-template for more information
 Console.WriteLine("salveee");
 
-
 List<string> listaString = new List<string>();
-
-
 listaString.Add("salve");
 listaString.Add("victor");
 listaString.Add("o meor");
