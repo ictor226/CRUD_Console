@@ -118,13 +118,6 @@ foreach (string item in listaString)
 
 
 
-
-
-
-
-
-
-
 // int soma = 0, numero = 0;
 
 // do
